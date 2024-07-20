@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Smartphone",
+        "description": "Latest model with advanced features",
+        "price": 699.99,
+        "category": "Electronics",
+        "brand": "Asus",
+        "stock": 50
+    },
+    {
+        "name": "Laptop",
+        "description": "High performance laptop for gaming and work",
+        "price": 1299.99,
+        "category": "Computers",
+        "brand": "Dell",
+        "stock": 30
+    },
+    {
+        "name": "Headphones",
+        "description": "Noise-cancelling over-ear headphones",
+        "price": 199.99,
+        "category": "Accessories",
+        "brand": "AudioBrand",
+        "stock": 100
+    },
+    {
+        "name": "Smartwatch",
+        "description": "Fitness tracker with heart rate monitor",
+        "price": 499.99,
+        "category": "Wearables",
+        "brand": "WearTech",
+        "stock": 200
+    },
+    {
+        "name": "Bluetooth Speaker",
+        "description": "Portable speaker with high-quality sound",
+        "price": 49.99,
+        "category": "Audio",
+        "brand": "SoundMax",
+        "stock": 300
+    },
+    {
+        "name": "Tablet",
+        "description": "10-inch tablet with HD display",
+        "price": 299.99,
+        "category": "Tablets",
+        "brand": "TabBrand",
+        "stock": 75
+    },
+    {
+        "name": "Wireless Mouse",
+        "description": "Ergonomic wireless mouse",
+        "price": 89.99,
+        "category": "Computer Accessories",
+        "brand": "TechMouse",
+        "stock": 150
+    }
+]
